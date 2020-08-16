@@ -26,3 +26,7 @@
 .p{
     float:right;
 }
+.carousel-inner{
+    background-image: url(media/bg-1.png);
+    background-repeat: no-repeat;
+}

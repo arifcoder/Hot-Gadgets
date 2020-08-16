@@ -1,3 +1,7 @@
+.orange-bg {
+    background-color: #FEEAE9;
+    border-radius: 10px;
+}
 .navbar-brand img{
     width:100px;
 }
@@ -29,4 +33,13 @@
 .carousel-inner{
     background-image: url(media/bg-1.png);
     background-repeat: no-repeat;
+}
+#Subscribe {
+    height: 300px;
+}
+#Subscribe h6{
+    color:grey
+}
+footer{
+    text-align: center;
 }

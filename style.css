@@ -1,5 +1,28 @@
-img {
-    vertical-align: middle;
-    border-style: none;
-    width: 100px;
+.navbar-brand img{
+    width:100px;
+}
+.half-width1{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width2{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width2 img{
+    width: 30%;
+    padding-top: 300px;
+}
+.half-width1 img{
+    width: 15%;
+    height: 500px;
+    padding-top: 100px;
+}
+.p{
+    float:right;
 }

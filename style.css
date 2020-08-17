@@ -30,9 +30,12 @@
 .p{
     float:right;
 }
-.carousel-inner{
+.carousel-inner {
     background-image: url(media/bg-1.png);
     background-repeat: no-repeat;
+    background-position: center;
+    background-size: 5%;
+    padding-bottom: 50px;
 }
 #Subscribe {
     height: 300px;
